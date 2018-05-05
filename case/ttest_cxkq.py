@@ -5,7 +5,6 @@ import time
 from page.cxkqpage import CxkqPage
 from page.loginpage import LoginPage
 from comm.excelutil import ExcelUtil
-import time
 import ddt
 import os
 
